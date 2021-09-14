@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rajendra Nayak, Senior Software Developer  @nayakrajendra
+- 👋 Hi, I’m Rajendra Nayak a.k.a javascript_dude, Senior Software Developer  @nayakrajendra
 - 👀 I’m interested in Javascript & its Frameworks. Have experience in Angular Framework
 - 🌱 I’m currently learning Advanced Angular features & Cloud computing
 - 💞️ I’m looking to collaborate whenever possible
